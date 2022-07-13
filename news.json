@@ -1,20 +1,20 @@
 [
   {
-    "title" = "Futebol feminino mantém crescimento no Brasil",
-    "description" = "O futebol feminino continua a sua fase ascendente no Brasil, o que começa a refletir também nas finanças dos clubes, fator fundamental para que a modalidade siga essa evolução.",
-    "image" = "https://conteudo.imguol.com.br/c/esporte/d9/2022/03/27/equipe-do-corinthians-comemora-vitoria-sobre-o-santos-pelo-campeonato-brasileiro-feminino-1648397229926_v2_900x506.jpg.webp",
-    "link" = "https://www.uol.com.br/esporte/colunas/danilo-lavieri/2022/05/21/futebol-feminino-mantem-crescimento-e-comeca-a-gerar-mais-dinheiro.htm"
+    "title" : "Futebol feminino mantém crescimento no Brasil",
+    "description" : "O futebol feminino continua a sua fase ascendente no Brasil, o que começa a refletir também nas finanças dos clubes, fator fundamental para que a modalidade siga essa evolução.",
+    "image" : "https://conteudo.imguol.com.br/c/esporte/d9/2022/03/27/equipe-do-corinthians-comemora-vitoria-sobre-o-santos-pelo-campeonato-brasileiro-feminino-1648397229926_v2_900x506.jpg.webp",
+    "link" : "https://www.uol.com.br/esporte/colunas/danilo-lavieri/2022/05/21/futebol-feminino-mantem-crescimento-e-comeca-a-gerar-mais-dinheiro.htm"
   },
   {
-    "title" = "Copa do Mundo feminina 2023",
-    "description" = "A Copa do Mundo Feminina 2023 é o evento mais aguardado da modalidade atualmente, será a nona edição do torneio mundial de seleções femininas.",
-    "image" = "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt84251a2a0f86c8db/60db68d9c5c41538a15330a9/bbcdb82aeec3fb6778828f92caecf8a2b363a51b.jpg?quality=80&width=1000&format=pjpg&auto=webp",
-    "link" = "https://www.goal.com/br/notícias/copa-do-mundo-feminina-2023-onde-e-quando-sera-vagas-formato-e-mais-do-torneio/bltb6d3914a6f868b14"
+    "title" : "Copa do Mundo feminina 2023",
+    "description" : "A Copa do Mundo Feminina 2023 é o evento mais aguardado da modalidade atualmente, será a nona edição do torneio mundial de seleções femininas.",
+    "image" : "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt84251a2a0f86c8db/60db68d9c5c41538a15330a9/bbcdb82aeec3fb6778828f92caecf8a2b363a51b.jpg?quality=80&width=1000&format=pjpg&auto=webp",
+    "link" : "https://www.goal.com/br/notícias/copa-do-mundo-feminina-2023-onde-e-quando-sera-vagas-formato-e-mais-do-torneio/bltb6d3914a6f868b14"
   },
   {
-    "title" = "Ela e mais dez",
-    "description" = "Claudina Vidal era atacante do Sud América, do Uruguai, e jogava num time só de homens. Sua história é um mergulho em machismo e preconceito",
-    "image" = "https://placar.abril.com.br/wp-content/uploads/2021/12/elaemais10.jpg?quality=70&strip=info&resize=850,567",
-    "link" = "https://placar.abril.com.br/coluna/tbt-placar/ela-e-mais-dez-em-1972-placar-perfilou-pioneira-do-futebol-feminino/"
+    "title" : "Ela e mais dez",
+    "description" : "Claudina Vidal era atacante do Sud América, do Uruguai, e jogava num time só de homens. Sua história é um mergulho em machismo e preconceito",
+    "image" : "https://placar.abril.com.br/wp-content/uploads/2021/12/elaemais10.jpg?quality=70&strip=info&resize=850,567",
+    "link" : "https://placar.abril.com.br/coluna/tbt-placar/ela-e-mais-dez-em-1972-placar-perfilou-pioneira-do-futebol-feminino/"
   }
 ]
